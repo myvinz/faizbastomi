@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://github.com/FaizBastomi"><img src="https://tinyurl.com/y7kojjp2" width="500" /></a>
+  <a href="https://github.com/FaizBastomi"><img src="https://tinyurl.com/y7kojjp2" width="500" alt="WP" /></a>
+  <a href="https://discord.c99.nl" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/554086721688698882.png" alt="Banner" /></a>
 </p>
-
-![banner](https://discord.c99.nl/widget/theme-3/554086721688698882.png)
 
 <p align="center">
   <a href="https://twitter.com/FaizBastomi"><img height="35" src="https://github.com/FaizBastomi/faizbastomi/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
