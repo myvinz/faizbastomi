@@ -1,6 +1,7 @@
+<h1 align="center">Faiz Bastomi</h1>
+
 <p align="center">
   <a href="https://github.com/FaizBastomi"><img src="https://tinyurl.com/y7kojjp2" width="500" alt="WP" /></a>
-  <a href="https://discord.c99.nl" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/554086721688698882.png" alt="Banner" /></a>
 </p>
 
 <p align="center">
@@ -9,11 +10,9 @@
     <a href="https://facebook.com/faiz.bastomi"><img height="30" src="https://github.com/FaizBastomi/faizbastomi/blob/master/facebook.png?raw=true"></a>
 </p>
 
-<h3 align="center">Faiz Bastomi</h3>
-
-<p align="center">
-  <strong>❤️</strong>
-</p>
+[![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app)
+[![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![Extra Pin](https://github-readme-stats.vercel.app/api/pin?username=faizbastomi&repo=kaguya-bot&theme=radical)](https://github.com/FaizBastomi/kaguya-bot)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizbastomi)](https://github-readme-streak-stats.herokuapp.com)
 
 ---
-
