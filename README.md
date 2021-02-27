@@ -1,6 +1,6 @@
 <h1 align="center">Faiz Bastomi</h1>
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+<img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
 - 🌱 I'm currently learning JavaScript
