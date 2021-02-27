@@ -12,7 +12,5 @@
 
 [![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app)
 [![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
-[![Extra Pin](https://github-readme-stats.vercel.app/api/pin?username=faizbastomi&repo=kaguya-bot&theme=radical)](https://github.com/FaizBastomi/kaguya-bot)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizbastomi)](https://github-readme-streak-stats.herokuapp.com)
 
 ---
