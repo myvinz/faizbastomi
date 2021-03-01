@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
-- 🌱 I'm currently learning JavaScript
-- 🔭 I'm currently working on my [Discord Bot](https://github.com/faizbastomi/kaguya-bot)
-- 🤔 Looking for help with my repo [whatsapp-bot](https://github.com/faizbastomi/whatsapp-bot)
+- 🌱 I'm currently learning `JavaScript`
+- 🔭 I'm currently working on my [`Discord Bot`](https://github.com/faizbastomi/kaguya-bot)
+- 🤔 Looking for help with my repo [`whatsapp-bot`](https://github.com/faizbastomi/whatsapp-bot)
 
 [![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
