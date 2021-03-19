@@ -4,11 +4,16 @@
 
 **Personal Stuffs:**
 - 🌱 I'm currently learning `JavaScript`
-- 🔭 I'm currently working on my [`Discord Bot`](https://github.com/faizbastomi/kaguya-bot)
+- 🔭 I'm currently working on my side project
 - 🤔 Looking for help with my repo [`whatsapp-bot`](https://github.com/faizbastomi/whatsapp-bot)
+
+<details>
+<summary>My Stats</summary>
 
 [![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+
+</details>
 
 <p align="center">
   <a href="https://twitter.com/FaizBastomi"><img height="35" src="https://github.com/FaizBastomi/faizbastomi/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
