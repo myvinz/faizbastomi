@@ -15,6 +15,14 @@
 
 </details>
 
+<details>
+<summary>Pins Repository</summary>
+
+[![selfbot-baileys](https://github-readme-stats.vercel.app/api/pin/?username=BotWAIndo&repo=selfbot-baileys)](https://github-readme-stats.vercel.app)
+[![kaguya-bot](https://github-readme-stats.vercel.app/api/pin/?username=FaizBastomi&repo=kaguya-bot)](https://github-readme-stats.vercel.app)
+
+</details>
+
 <p align="center">
   <a href="https://twitter.com/FaizBastomi"><img height="30" src="https://github.com/FaizBastomi/faizbastomi/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/faiz_bastomy"><img height="30" src="https://github.com/FaizBastomi/faizbastomi/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
