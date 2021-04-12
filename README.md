@@ -18,8 +18,8 @@
 <details>
 <summary>Pins Repository</summary>
 
-[![selfbot-baileys](https://github-readme-stats.vercel.app/api/pin/?username=BotWAIndo&repo=selfbot-baileys)](https://github-readme-stats.vercel.app)
-[![kaguya-bot](https://github-readme-stats.vercel.app/api/pin/?username=FaizBastomi&repo=kaguya-bot)](https://github-readme-stats.vercel.app)
+[![selfbot-baileys](https://github-readme-stats.vercel.app/api/pin/?username=BotWAIndo&repo=selfbot-baileys&theme=radical)](https://github-readme-stats.vercel.app)
+[![kaguya-bot](https://github-readme-stats.vercel.app/api/pin/?username=FaizBastomi&repo=kaguya-bot&theme=radical)](https://github-readme-stats.vercel.app)
 
 </details>
 
