@@ -5,7 +5,6 @@
 **Personal Stuffs:**
 - 🌱 I'm currently learning `JavaScript`
 - 🔭 I'm currently working on my side project
-- 🤔 Looking for help with my repo [`whatsapp-bot`](https://github.com/faizbastomi/whatsapp-bot)
 
 <details>
 <summary>My Stats</summary>
