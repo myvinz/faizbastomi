@@ -4,17 +4,19 @@
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/FaizBastomi)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/faizbastomi)
 
-## ℹ Personal Stuffs
+### ℹ Personal Stuffs
 - 💻 I'm currently learning `JavaScript` 🚀.
 - 🔭 I'm currently working on my side project.
-- Languages: 
+- Languages: &nbsp;
+
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- Frameworks: 
+- Frameworks: &nbsp;
+
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## ⚙ GitHub Analytics
+### ⚙ GitHub Analytics
 
 ---
 
