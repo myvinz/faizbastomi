@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello, I'm Faiz</h1>
+## 👋 Hello, I'm Faiz
 
-![Banner](kaguya.jpeg)
+![Banner](kaguya.jpeg) <br />
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/FaizBastomi)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/faizbastomi)
 
