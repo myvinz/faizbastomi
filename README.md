@@ -1,12 +1,11 @@
-## 👋 Hello, I'm Faiz
+## 👋 Hello, Welcome To ID Team
 
 ![Banner](kaguya.jpeg) <br />
-[<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/FaizBastomi)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/faizbastomi)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/id-team_)
 
 ### ℹ &nbsp;Personal Stuffs
-- 💻 I'm currently learning `JavaScript` 🚀.
-- 🔭 I'm currently working on my side project.
+- 💻 We currently learning `JavaScript` 🚀.
+- 🔭 We currently working on my side project.
 - Languages: &nbsp;
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -20,5 +19,5 @@
 
 ---
 
-[![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![ID Team GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![ID TdamTop Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
